@@ -1,1 +1,0 @@
-tok = "7302119320:AAENKdSqEDth7TwsryK2VoDrAn9eXOf0Hho"
