@@ -1,0 +1,4 @@
+tok.py
+*.jpg
+.vscode/
+__pycache__/
