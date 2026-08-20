@@ -21,5 +21,5 @@ pip install aiogram opencv-python
 ```
 3. RUN
 ```
-./main.py
+python main.py
 ```
